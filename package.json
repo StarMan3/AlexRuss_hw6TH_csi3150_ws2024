@@ -2,7 +2,7 @@
   "name": "alexruss_hw6th_csi3150_ws2024",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://starman03.github.io/AlexRuss_hw6TH_csi3150_ws2024",
+  "homepage": "https://starman3.github.io/AlexRuss_hw6TH_csi3150_ws2024",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
