@@ -1,4 +1,5 @@
 import React from "react";
+import "./TravelBlog.css";
 
 function TravelBlog(props) {
     return (
